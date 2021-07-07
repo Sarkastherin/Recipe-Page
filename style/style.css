@@ -19,6 +19,7 @@ calc([minimum size] + ([maximum size] - [minimum size]) * ((100vw - [minimum vie
         justify-content: center;
         margin: auto;
         width: fit-content !important;
+        width: -moz-fit-content !important;
     }
     .recipe-block{
         width: 60%;
@@ -45,6 +46,7 @@ h1{
     width: 13px;
     margin-right: 12px;
     height: fit-content;
+    height: -moz-fit-content;
     
 }
 .entrada p{
@@ -56,7 +58,7 @@ h1{
     max-width: 590px;
 }
 img.cover{
-    max-width: 940px;
+    width: 100%;
     border-radius: 1em;
 }
 .prep{
@@ -131,6 +133,7 @@ label::before{
     background-color: #F2994A;
     content: url(../image/icons/check-good-yes.svg);
     width: fit-content;
+    width: -moz-fit-content;
     padding: auto;
 }
 .steps p{
