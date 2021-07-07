@@ -1,5 +1,3 @@
-<!-- Please update value in the {}  -->
-
 <h1 align="center">Recipe Page</h1>
 
 <div align="center">
@@ -8,15 +6,15 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://trusting-johnson-df7b33.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://trusting-johnson-df7b33.netlify.app/">
       Solution
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-challenge}">
+    <a href="https://devchallenges.io/challenges/OEKdUZ6xs0h99C38XVht">
       Challenge
     </a>
   </h3>
@@ -29,7 +27,6 @@
 - [Overview](#overview)
   - [Built With](#built-with)
 - [Features](#features)
-- [How to use](#how-to-use)
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
 
@@ -39,20 +36,18 @@
 
 ![screenshot](SS-recipePage.png)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+A **recipe page template** , with a _responsive design_ and checklist for each ingredient
+You can see my demo [Here](https://trusting-johnson-df7b33.netlify.app/).
+I enjoyed do this. I learned how to edit `checkbox` and other way to make order list without the tag `ol` and  `li`.
+This practice will help me in my personal project. I will to do again but with [React.js](https://reactjs.org/). I think it'll be an excellent practice and it'll give me a great skills.
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- [HTML]()
+- [CSS]()
+- [FontAweson](https://fontawesome.com/)
 
 ## Features
 
@@ -64,31 +59,16 @@ This application/site was created as a submission to a [DevChallenges](https://d
 - [ ] User story: This is a incompleted user stories
 - [ ] User story: This is a incompleted 2nd user stories
 
-## How To Use
-
-To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
-
-```bash
-# Clone this repository
-$ git clone https://github.com/your-user-name/your-project-name
-
-# Install dependencies
-$ npm install
-
-# Run the app
-$ npm start
-```
 
 ## Acknowledgements
 
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
-- [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
+- [¿Cómo mejorar la velocidad de carga de tu web optimizando las imágenes?](https://marketerosdehoy.com/diseno-web/mejorar-velocidad-carga-web-optimizando-imagenes/)
+- [CSS Reference](https://www.w3schools.com/cssref/default.asp)
 - [Marked - a markdown parser](https://github.com/chjj/marked)
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- GitHub [@sarkastherin](https://github.com/Sarkastherin)
+- Twitter [@sarkastherin](https://twitter.com/SarKastherin)
