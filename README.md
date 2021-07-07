@@ -36,9 +36,11 @@
 
 ![screenshot](SS-recipePage.png)
 
-A **recipe page template** , with a _responsive design_ and checklist for each ingredient
+A **recipe page template** , with a _responsive design_ and checklist for each ingredient.
 You can see my demo [Here](https://trusting-johnson-df7b33.netlify.app/).
+
 I enjoyed do this. I learned how to edit `checkbox` and other way to make order list without the tag `ol` and  `li`.
+
 This practice will help me in my personal project. I will to do again but with [React.js](https://reactjs.org/). I think it'll be an excellent practice and it'll give me a great skills.
 
 ### Built With
